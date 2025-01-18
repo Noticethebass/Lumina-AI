@@ -1,7 +1,5 @@
 # Lumina-AI
 
-# !!!Sharing files for now!!!
-
  A Neuro-sama-esque AI 
 
 # Credits and Team:
