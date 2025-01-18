@@ -7,8 +7,11 @@
 # Credits and Team:
 
 Sebastian-AI and model 
+
 Nate-Rigging and ideas
+
 Pat-Backup
+
 Andys Sister-Original art for the model
 
 Gemini was used for the name
