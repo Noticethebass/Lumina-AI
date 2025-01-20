@@ -9,6 +9,9 @@ client.commands = new Map();
 const commandsPath = path.join(__dirname, 'commands');
 const commandFiles = fs.readdirSync(commandsPath).filter(file => file.endsWith('.js'));
 
+console.log(`Loaded commands: ${[...client.commands.keys()].join(', ')}`);  // Log loaded commands
+
+
 for (const file of commandFiles) {
 	const command = require(path.join(commandsPath, file));
 	client.commands.set(command.data.name, command);
