@@ -1,6 +1,0 @@
-{
-  "includeDefaultPlanets"; true,
-  "includeDefaultHeightmaps": true,
-  "includeDefaultTextures": true,
-  "hideStarsInAtmosphere": false
-}
